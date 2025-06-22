@@ -1,6 +1,9 @@
 # APPENDEMIK
-
 Aplikasi Endemik ini merupakan project Ujian Akhir Semester (UAS) dari mata kuliah Pemrograman Mobile Lanjut. Aplikasi ini dikembangkan menggunakan Flutter dan ditulis dengan bahasa pemrograman Dart, yang memungkinkan pembuatan antarmuka pengguna yang responsif dan modern di platform Android maupun iOS.
+Project ini dikerjakan secara berkelompok oleh dua mahasiswa, yaitu:
+1. Cornelia Lidya (NIM 2310501107)
+2. Mas Roro Putri Rhilowati Septiani (NIM 2310501109)
+
 
 ## Getting Started
 
