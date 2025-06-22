@@ -1,6 +1,6 @@
-# untitled
+# APPENDEMIK
 
-A new Flutter project.
+Aplikasi Endemik ini merupakan project Ujian Akhir Semester (UAS) dari mata kuliah Pemrograman Mobile Lanjut. Aplikasi ini dikembangkan menggunakan Flutter dan ditulis dengan bahasa pemrograman Dart, yang memungkinkan pembuatan antarmuka pengguna yang responsif dan modern di platform Android maupun iOS.
 
 ## Getting Started
 
